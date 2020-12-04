@@ -1,5 +1,5 @@
 body{
-    background-image: url('css/images/playing.jpg');
+    background-image: url('/css/images/playing.jpg');
     background-size: cover;
 }
 h2{
